@@ -1,1 +1,0 @@
-// SubscriptionScreen component
